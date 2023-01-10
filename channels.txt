@@ -17,8 +17,6 @@ http://127.0.0.1:6878/ace/getstream?id=704c3c92aafbcf3234c88a4be5fd98fcbd238d85
 http://127.0.0.1:6878/ace/getstream?id=bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png" ,DAZN 4 1080
 http://127.0.0.1:6878/ace/getstream?id=149a38e333de920753f1388c43247283bdb05f5b
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M.Liga _M_HD
-http://127.0.0.1:6878/ace/getstream?id=65e3e3bd74f801c78e4f4f65bb4c5af429b6fba1
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,Liga _M_HD
 http://127.0.0.1:6878/ace/getstream?id=0e382ebf4e14e40ea75a89e437c5edb1904b2be0
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M la liga 1080 multiaudio
@@ -59,8 +57,6 @@ http://127.0.0.1:6878/ace/getstream?id=200489d6bfc8295ce59238160564249ff2cca6ab
 http://127.0.0.1:6878/ace/getstream?id=4745f6b6f4ea9be7790dcbdf52f4f3352aa532b0
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,LIGA CAMPEONES 
 http://127.0.0.1:6878/ace/getstream?id=9f41a7d6f803746183fcb7af8fc1873324963424
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 7 SD
-http://127.0.0.1:6878/ace/getstream?id=d84a90adb6998083403f610ab3fae340b5711b1e
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 1080 MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=045718bad2ddb4f03b1a420754a97a23ad8b493b
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 1080
@@ -127,16 +123,16 @@ http://127.0.0.1:6878/ace/getstream?id=0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 http://127.0.0.1:6878/ace/getstream?id=05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6 
 #EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,4k pruebas
 http://127.0.0.1:6878/ace/getstream?id=440e15375a76b0245ee07873dae1681f8c6d83cb
-#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,UNTITLED CHANNEL
-http://127.0.0.1:6878/ace/getstream?id=Supercopa 1080 Multi 8b2c2ef8925b1c659ccd3922390617a98d9ee6e1
-#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Supercopa 1080 Multi 8b2c2ef8925b1c659ccd3922390617a98d9ee6e1
-http://127.0.0.1:6878/ace/getstream?id=Supercopa 1080 Multi c1a176e0165da407199bb9f8fb3acc2aaab2d3d1
-#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Supercopa 1080 Multi c1a176e0165da407199bb9f8fb3acc2aaab2d3d1
-http://127.0.0.1:6878/ace/getstream?id=Supercopa 1080 95d9967309d74d3dbd87c66cf374666bb9da9f07
-#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Supercopa 1080 95d9967309d74d3dbd87c66cf374666bb9da9f07
-http://127.0.0.1:6878/ace/getstream?id=Supercopa 720 a16f0078ccb46ba65aaa175ad823e47ec31ab464
-#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Supercopa 720 a16f0078ccb46ba65aaa175ad823e47ec31ab464
-http://127.0.0.1:6878/ace/getstream?id=LA 1 1080 fd0a3f8874ba9bb0516b1e2b978827fdd6661842
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Supercopa 1080 Multi 
+http://127.0.0.1:6878/ace/getstream?id=8b2c2ef8925b1c659ccd3922390617a98d9ee6e1
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Supercopa 1080 Multi 
+http://127.0.0.1:6878/ace/getstream?id=c1a176e0165da407199bb9f8fb3acc2aaab2d3d1
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Supercopa 1080 
+http://127.0.0.1:6878/ace/getstream?id=95d9967309d74d3dbd87c66cf374666bb9da9f07
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Supercopa 720 
+http://127.0.0.1:6878/ace/getstream?id=a16f0078ccb46ba65aaa175ad823e47ec31ab464
+#EXTINF:-1 group-title="Otro contenido" tvg-id="LA 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" ,La1
+http://127.0.0.1:6878/ace/getstream?id=fd0a3f8874ba9bb0516b1e2b978827fdd6661842
 #EXTINF:-1 group-title="Otro contenido" tvg-id="BEIN SPORTS" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,beIN SPORTS ñ
 http://127.0.0.1:6878/ace/getstream?id=4853a0bd4fd17f85f563267feb6aec3319a3ac1d
 #EXTINF:-1 group-title="Otro contenido" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN ARGENTINA
@@ -147,9 +143,9 @@ http://127.0.0.1:6878/ace/getstream?id=e40b29774fdfd953751a71f5695f647726623b9d
 http://127.0.0.1:6878/ace/getstream?id=b97f5975dbd067655432512d4693b417bc85a714
 #EXTINF:-1 group-title="Otro contenido" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN EXTRA URUGUAY
 http://127.0.0.1:6878/ace/getstream?id=9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
-#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,d84a90adb6998083403f610ab3fae340b5711b1e
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,9f41a7d6f803746183fcb7af8fc1873324963424
 http://127.0.0.1:6878/ace/getstream?id=CAMPEONES 4K 6401fd74d4304f791766720c6699f383420b23ab
-#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,65e3e3bd74f801c78e4f4f65bb4c5af429b6fba1
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,UNTITLED CHANNEL
 http://127.0.0.1:6878/ace/getstream?id=M.Liga _M_HD 31d79996fb4b175f534359393aa43821afd11b3b
 #EXTINF:-1 group-title="Otro contenido" tvg-id="BE MAD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-be-mad-621.png" ,BeMad 1080
 http://127.0.0.1:6878/ace/getstream?id=5c267a00f264736c1d47c1cc3e754447ca8f770c
@@ -171,8 +167,6 @@ http://127.0.0.1:6878/ace/getstream?id=9a8c5485a38e9399e81b3eed23e588946946039f
 http://127.0.0.1:6878/ace/getstream?id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 #EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,SETANTA SPORTS 1080
 http://127.0.0.1:6878/ace/getstream?id=72066549fbfd3f755853fe9467586b7debf01f60
-#EXTINF:-1 group-title="Otro contenido" tvg-id="LA 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" ,La1
-http://127.0.0.1:6878/ace/getstream?id=fd0a3f8874ba9bb0516b1e2b978827fdd6661842
 #EXTINF:-1 group-title="Otro contenido" tvg-id="LA 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" ,La1 UHD
 http://127.0.0.1:6878/ace/getstream?id=6636a5c1055b5913ddcd0e87a5523f7d935350af
 #EXTINF:-1 group-title="Otro contenido" tvg-id="ELLAS" tvg-logo="https://i.imgur.com/OJaEosP.png" ,#Ellas 720
