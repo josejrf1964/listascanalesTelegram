@@ -39,20 +39,6 @@ http://127.0.0.1:6878/ace/getstream?id=1104426e14b649eb23fee16698768544285de478
 http://127.0.0.1:6878/ace/getstream?id=ed2a15319345fb0739590faf88d8be4cb1663bf3
 #EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,LaLiga Tv Bar 720
 http://127.0.0.1:6878/ace/getstream?id=e3249feb41ca1e68f38cf9bd9a196d6b3f873032
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,Movistar Liga Campeones  1080
-http://127.0.0.1:6878/ace/getstream?id=420e0f650773fb080b7c3db3dc871930d83dec07
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,Movistar Liga Campeones 720 MultiAudio
-http://127.0.0.1:6878/ace/getstream?id=297b513e2999e829d8bc9bd963428ea3d43362db
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,Campeones 1080  Multi
-http://127.0.0.1:6878/ace/getstream?id=6fb454a0120acc80f830e4959d7c9c2f97a1bbe9
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,Movistar Liga Campeones 1080 Multi
-http://127.0.0.1:6878/ace/getstream?id=ccb4b3d3daafe67db6d50298849e27619f4b9e4c
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,Movistar Liga Campeones 1080
-http://127.0.0.1:6878/ace/getstream?id=ca65422c1b65887d670f3661ae1290a000bb8ef6
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,Movistar Liga Campeones 720 Multiaudio
-http://127.0.0.1:6878/ace/getstream?id=aac2956fde7fe73ef5336ed6fd159a5f44704d6a
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,Movistar Liga Campeones 1080 MultiAudio
-http://127.0.0.1:6878/ace/getstream?id=2bac25f323be1de8208d6554337c2c8256bc32bc
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,Movistar Liga Campeones 1080 MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=045718bad2ddb4f03b1a420754a97a23ad8b493b
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,Movistar Liga Campeones 720
@@ -117,10 +103,6 @@ http://127.0.0.1:6878/ace/getstream?id=7264961f63dc9dc6ef7acee7371f7a76b6a02061
 http://127.0.0.1:6878/ace/getstream?id=0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 720
 http://127.0.0.1:6878/ace/getstream?id=05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
-#EXTINF:-1 group-title="Otro contenido" tvg-id="FOX SPORTS" tvg-logo="https://i.imgur.com/wSgo4N2.png" ,Fox sports premium
-http://127.0.0.1:6878/ace/getstream?id=63ab9528b16e536be0da44d6f5aceac357292b95
-#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,F1TVPro 1080p 60FPS
-http://127.0.0.1:6878/ace/getstream?id=0b0280578d8b145562f4f4584c83261a56404843
 #EXTINF:-1 group-title="Otro contenido" tvg-id="LA 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" ,La1 1080
 http://127.0.0.1:6878/ace/getstream?id=fd0a3f8874ba9bb0516b1e2b978827fdd6661842
 #EXTINF:-1 group-title="Otro contenido" tvg-id="LA 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" ,La1 UHD
@@ -157,6 +139,8 @@ http://127.0.0.1:6878/ace/getstream?id=e40b29774fdfd953751a71f5695f647726623b9d
 http://127.0.0.1:6878/ace/getstream?id=b97f5975dbd067655432512d4693b417bc85a714
 #EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,SETANTA SPORTS 1080
 http://127.0.0.1:6878/ace/getstream?id=72066549fbfd3f755853fe9467586b7debf01f60
+#EXTINF:-1 group-title="Otro contenido" tvg-id="FOX SPORTS" tvg-logo="https://i.imgur.com/wSgo4N2.png" ,Fox sports premium
+http://127.0.0.1:6878/ace/getstream?id=63ab9528b16e536be0da44d6f5aceac357292b95
 #EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,DirectSports plus
 http://127.0.0.1:6878/ace/getstream?id=e5dd056bbcbf637c7fa314288356a8024e426f18
 #EXTINF:-1 group-title="Otro contenido" tvg-id="M+ #0 HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a371.png" ,#0 de Movistar 1080
